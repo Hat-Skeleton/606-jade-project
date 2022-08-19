@@ -1,6 +1,6 @@
 todo:
 
-cody: ticket class, plane class and attributes
+cody: ticket class and attributes
 
 quintin: airport class and attributes
 
@@ -10,7 +10,7 @@ daniel: idk
 
 completed:
 
-cody:
+cody: plane class and attributes
 
 quintin:
 
